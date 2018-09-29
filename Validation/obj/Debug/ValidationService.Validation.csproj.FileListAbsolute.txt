@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\ValidationService\Validation\bin\Debug\Validation.dll
+C:\Users\User\Desktop\ValidationService\Validation\bin\Debug\Validation.pdb
+C:\Users\User\Desktop\ValidationService\Validation\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\ValidationService\Validation\obj\Debug\ValidationService.Validation.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ValidationService\Validation\obj\Debug\ValidationService.Validation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ValidationService\Validation\obj\Debug\Validation.dll
+C:\Users\User\Desktop\ValidationService\Validation\obj\Debug\Validation.pdb
+C:\Users\User\Desktop\ValidationService\Validation\bin\Debug\NLog.config
+C:\Users\User\Desktop\ValidationService\Validation\bin\Debug\Logging.dll
+C:\Users\User\Desktop\ValidationService\Validation\bin\Debug\NLog.dll
+C:\Users\User\Desktop\ValidationService\Validation\bin\Debug\Logging.pdb
+C:\Users\User\Desktop\ValidationService\Validation\bin\Debug\NLog.xml
